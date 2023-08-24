@@ -9,7 +9,7 @@ Email: fathimathul.shoukkathali@msds.christuniversity.in
 
 
 ***
-                              Index
+Index
 ***                              
 
 

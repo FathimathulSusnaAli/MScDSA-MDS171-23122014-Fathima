@@ -16,11 +16,11 @@ Email: fathimathul.shoukkathali@msds.christuniversity.in
 
 |Sl.no|Date|File name|Topic|Link|
 |:----:|:----:|:---:|:----:|:----:|
-|1.|23-08-23|lab01|Write a program to enter name and push it to github.|https://github.com/FathimathulSusnaAli/MScDSA-MDS171-23122014-Fathima.git|      
-|2.|28-08-23|lab02|The Name Collector's Quest with the Problems Associated with it.|https://github.com/FathimathulSusnaAli/MScDSA-MDS171-23122014-Fathima.git|              
-|3.|01-09-23|lab03|The Tale of Numbers' Harmony with the Problems Associated with it.|https://github.com/FathimathulSusnaAli/MScDSA-MDS171-23122014-Fathima.git|                
-|4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System with the creation of Database and the analysis .|https://github.com/FathimathulSusnaAli/MScDSA-MDS171-23122014-Fathima.git|             
-|5.|08-09-23|lab05|Mix & Match Calculator.|https://github.com/FathimathulSusnaAli/MScDSA-MDS171-23122014-Fathima.git|     
+|1.|23-08-23|lab01|Write a program to enter name and push it to github.|<a href="Lab 01.ipynb">Lab 01.ipynb</a>|      
+|2.|28-08-23|lab02|The Name Collector's Quest with the Problems Associated with it.|<a href="Lab 02.ipynb">Lab 02.ipynb</a>|              
+|3.|01-09-23|lab03|The Tale of Numbers' Harmony with the Problems Associated with it.|<a href="Lab 03.ipynb">Lab 03.ipynb</a>|                
+|4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System with the creation of Database and the analysis .|<a href="Lab 04.ipynb">Lab 04.ipynb</a>|             
+|5.|08-09-23|lab05|Mix & Match Calculator.|<a href="Lab 05.ipynb">Lab 05.ipynb</a>|     
 |6.|11-09-23|lab06|Vowel Counter.|<a href="Lab 06.ipynb">Lab 06.ipynb</a>|     
 
 

@@ -22,6 +22,7 @@ Email: fathimathul.shoukkathali@msds.christuniversity.in
 |4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System with the creation of Database and the analysis .|<a href="Lab 04">Lab 04</a>|             
 |5.|08-09-23|lab05|Mix & Match Calculator.|<a href="Lab 05">Lab 05</a>|     
 |6.|11-09-23|lab06|Vowel Counter.|<a href="Lab 06.ipynb">Lab 06.ipynb</a>|     
+|7.|15-09-23|lab07|My Menu Driven Restaurant.|<a href="Lab 07.py">Lab 07.py</a>| 
 
 
 

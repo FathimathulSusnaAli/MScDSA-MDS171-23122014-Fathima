@@ -24,7 +24,8 @@ Email: fathimathul.shoukkathali@msds.christuniversity.in
 |6.|11-09-23|lab06|Vowel Counter.|<a href="Lab 06.ipynb">Lab 06.ipynb</a>|     
 |7.|15-09-23|lab07|My Menu Driven Restaurant.|<a href="Lab 07.py">Lab 07.py</a>|     
 |8.|19-09-23|CAC-1|HealthCare Management System.|<a href="CAC1">CAC1</a>|      
-|9.|19-09-23|lab08|Matrix Multiplication.|<a href="Lab 08.ipynb">Lab 08.ipynb</a>|      
+|9.|19-09-23|lab08|Matrix Multiplication.|<a href="Lab 08.ipynb">Lab 08.ipynb</a>|        
+|10.|22-09-23|lab09|Expense Tracker.|<a href="Lab 09.py">Lab 09.py</a>|         
 
 
 
